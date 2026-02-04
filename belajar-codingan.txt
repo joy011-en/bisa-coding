@@ -5,6 +5,9 @@ Belajar Codingan:
 -body
 -navbar
 *tombol
+-edit
+-lihat
+*
 -kemudian css
 -dan juga javascript
 -serta git dan github
