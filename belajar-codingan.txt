@@ -3,4 +3,4 @@ Belajar Codingan:
 -kemudian css
 -dan juga javascript
 -serta git dan github
--setelah itu baru backend dan frontend
+-belajar fullstack
