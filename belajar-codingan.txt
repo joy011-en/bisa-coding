@@ -9,6 +9,8 @@ Belajar Codingan:
 -lihat
 *
 -kemudian css
+*warna
+*ukuran
 -dan juga javascript
 -serta git dan github
 -belajar fullstack
