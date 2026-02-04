@@ -1,5 +1,7 @@
 Belajar Codingan:
 -mulai dari html
+*isi
+*tombol
 -kemudian css
 -dan juga javascript
 -serta git dan github
