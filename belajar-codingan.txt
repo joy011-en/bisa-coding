@@ -6,3 +6,4 @@ Belajar Codingan:
 -dan juga javascript
 -serta git dan github
 -belajar fullstack
+-database
